@@ -1,0 +1,23 @@
+{
+  "name": "securely_yours",
+  "version": "0.0.1",
+  "description": "password manager using a mern stack (application / web extension / website)",
+  "main": "./api/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdel6602/SecurelyYours.git"
+  },
+  "keywords": [
+    "password",
+    "manager"
+  ],
+  "author": "Abdelrahman Gamal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdel6602/SecurelyYours/issues"
+  },
+  "homepage": "https://github.com/abdel6602/SecurelyYours#readme"
+}
